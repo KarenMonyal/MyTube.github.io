@@ -15,7 +15,7 @@ var username = 'KarenMonyal';
 var repository = 'MyTube.github.io';
 var branch = 'main';
 var filePath = 'video-data.json';
-var accessToken = 'YOUR_GITHUB_ACCESS_TOKEN';
+var accessToken = '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';
 
 // Handle upload
 function handleUpload() {
